@@ -6,9 +6,9 @@ A fish shell port of oh-my-zsh's [sudo plugin]
 
 ### Install
 
-With [Oh-My-Fish]:
+With [Fisher]:
 ```fish
-omf install sudope
+fisher install Dimentium/plugin-sudope
 ```
 
 ### Usage
@@ -59,6 +59,7 @@ Commits e45d168 and 0928ab2: 2017 [ISC] @ [Chloe Kudryavtsev]
 
 [sudo plugin]: https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo
 [Oh-My-Fish]: https://github.com/oh-my-fish/oh-my-fish
+[Fisher]: https://github.com/jorgebucaran/fisher
 [ISC]: http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/share/misc/license.template?rev=HEAD
 [Itzik Ephraim]: https://github.com/oranja
 [Chloe Kudryavtsev]: https://github.com/5paceToast
