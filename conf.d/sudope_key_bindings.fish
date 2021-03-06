@@ -1,3 +1,5 @@
+set -gx fish_escape_delay_ms 300
+
 # default key sequence:
 set -q sudope_sequence
   or switch $FISH_VERSION
